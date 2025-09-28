@@ -23,5 +23,5 @@ The full 47-page report PDF [Report](report.pdf) is included in this repository,
 8. Direct Linear Transform (DLT)
 
 <video controls width="560" height="315">
-  <source src="https://raw.githubusercontent.com/shubhankarKulk/smart-robot-hand/main/videos/hand_1_v2.mp4" type="video/mp4">
+  <source src="https://github.com/shubhankarKulk/smart-robot-hand/main/videos/hand_1_v2.mp4" type="video/mp4">
 </video>
