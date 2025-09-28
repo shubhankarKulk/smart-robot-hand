@@ -19,6 +19,5 @@ The full 47-page report PDF [Report](report.pdf) is included in this repository,
 7. MediaPipe
 8. Direct Linear Transform (DLT)
 
-<video controls width="560" height="315">
-  <source src="https://github.com/user-attachments/assets/415d8024-d692-4531-bcd2-876b541c1dd8" type="video/mp4">
-</video>
+## Model Demonstration
+https://github.com/user-attachments/assets/415d8024-d692-4531-bcd2-876b541c1dd8
